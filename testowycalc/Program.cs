@@ -10,6 +10,13 @@ namespace testowycalc
     {
         static void Main(string[] args)
         {
+            int a = 1;
+
+
+
+
+            System.Console.WriteLine("zmienna ma wartosc: " + a);
+            Console.ReadKey();
         }
     }
 }
